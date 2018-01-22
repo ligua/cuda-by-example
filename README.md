@@ -1,2 +1,2 @@
-# cuda-by-example
-Learning Notes of CUDA By Example
+# CUDA By Example
+Codes by chapters
